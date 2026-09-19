@@ -4,7 +4,7 @@
 
 I build AI services and the systems that keep them running: Service (RAG, agent workflows), Platform (LLM gateways, guardrails, serving + inference optimization, and observability).
 
-- **Previously at Toss Bank (15M+ user) ** — built and operated customer-facing and internal LLM services, then the shared LLM platform and LLMops behind them.
+- **Previously at Toss Bank (15M+ user)** — built and operated customer-facing and internal LLM services, then the shared LLM platform and LLMops behind them.
 - **early MLX contributor** — [optimizers](https://github.com/ml-explore/mlx/pull/142), [Transformer components](https://github.com/ml-explore/mlx/pull/167), and [cosine-similarity loss](https://github.com/ml-explore/mlx/pull/336).
 - **Research** — first author KDD 2023 (oral) and WWW 2025 (poster).
 
